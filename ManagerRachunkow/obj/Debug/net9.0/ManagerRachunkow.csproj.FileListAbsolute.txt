@@ -298,3 +298,12 @@ F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\Ma
 F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\obj\Debug\net9.0\ManagerRachunkow.pdb
 F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\obj\Debug\net9.0\ManagerRachunkow.genruntimeconfig.cache
 F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\obj\Debug\net9.0\ref\ManagerRachunkow.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\System.Net.Http.Formatting.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\System.Web.Http.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\bin\Debug\net9.0\Swashbuckle.Core.dll
+F:\!!!ProjektyC#\ProgramujzNetPraktykaNadTeoria\Manager Rachunkow - rozdzial2\ManagerRachunkow\ManagerRachunkow\obj\Debug\net9.0\ManagerRachunkow.sourcelink.json

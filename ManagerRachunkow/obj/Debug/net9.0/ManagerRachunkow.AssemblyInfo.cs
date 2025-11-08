@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManagerRachunkow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3311fc88b27ab328df105bfe8567bb4ab0963c5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManagerRachunkow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManagerRachunkow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
