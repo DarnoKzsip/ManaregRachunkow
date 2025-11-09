@@ -27,6 +27,7 @@ namespace ManagerRachunkow
             builder.Services.AddRazorPages();
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
             //builder.Services.AddDefaultIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+            //builder.Services.AddAutoMapper();
             builder.Services.AddControllersWithViews();
             builder.Services.AddSwaggerGen(c =>
             {
